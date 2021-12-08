@@ -1,4 +1,8 @@
-# Ancon IPLD Router Sync (beta / testnet)
+
+
+# Moved to https://github.com/anconprotocol/node
+
+## Ancon IPLD Router Sync (beta / testnet)
 
 ## Initial Beta Release
 
