@@ -1,4 +1,3 @@
-
 module github.com/anconprotocol/node
 
 go 1.16
@@ -8,9 +7,8 @@ require (
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-cid v0.1.0
 	github.com/ipfs/go-graphsync v0.9.3
-	github.com/ipfs/go-ipfs-blockstore v1.0.4 // indirect
-	github.com/ipld/go-car/v2 v2.0.2
-	github.com/ipld/go-ipld-prime v0.14.0
+	github.com/ipld/go-car/v2 v2.4.0
+	github.com/ipld/go-ipld-prime v0.16.0
 	github.com/libp2p/go-libp2p v0.14.4
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-core v0.8.6
@@ -36,7 +34,7 @@ require (
 	github.com/hyperledger/aries-framework-go v0.1.7
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/multiformats/go-multibase v0.0.3
-	github.com/multiformats/go-multicodec v0.3.0
+	github.com/multiformats/go-multicodec v0.5.0
 	github.com/multiformats/go-multihash v0.1.0
 	github.com/spf13/cast v1.4.1
 	github.com/swaggo/files v0.0.0-20210815190702-a29dd2bc99b2
