@@ -33,7 +33,7 @@
         "dotenv": "^8.2.0",
         "ethers": "^5.0.26",
         "fds.js": "^0.1.30",
-        "ipfs-core": "^0.4.2",
+        "ipfs-core": "^0.17.0",
         "ipfs-http-client": "^48.2.2",
         "jayson": "^3.6.5",
         "key-did-provider-ed25519": "^1.0.0",
