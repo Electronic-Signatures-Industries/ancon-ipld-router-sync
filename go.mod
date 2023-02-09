@@ -1,4 +1,3 @@
-
 module github.com/anconprotocol/node
 
 go 1.16
@@ -27,7 +26,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/ethereum/go-ethereum v1.10.13
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-openapi/spec v0.20.4 // indirect
 	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/glog v1.0.0
