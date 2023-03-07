@@ -1,4 +1,3 @@
-
 module github.com/anconprotocol/node
 
 go 1.16
@@ -25,8 +24,7 @@ require (
 	github.com/Yamashou/gqlgenc v0.0.2
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/buger/jsonparser v1.1.1
-	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
-	github.com/ethereum/go-ethereum v1.10.13
+	github.com/ethereum/go-ethereum v1.10.22
 	github.com/gin-gonic/gin v1.7.4
 	github.com/go-openapi/spec v0.20.4 // indirect
 	github.com/gogo/protobuf v1.3.3 // indirect
@@ -45,9 +43,6 @@ require (
 	github.com/tendermint/tendermint v0.35.0
 	github.com/tendermint/tm-db v0.6.6
 	github.com/vektah/gqlparser/v2 v2.2.0
-	golang.org/x/mod v0.5.1 // indirect
-	golang.org/x/net v0.0.0-20211123203042-d83791d6bcd9 // indirect
-	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881 // indirect
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 )
